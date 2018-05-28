@@ -1,4 +1,4 @@
-# Project Title
+# RegNet
 
 In this work, we focus on regularizing a deep neural network by adding a prior to the loss function based on similarities among labels. Particularly, we consider an image classification task where very few training samples are available for some classes and, study and expand a work which adds a regularizer to push weight vectors corresponding to visually similar classes, to be similar.
 
